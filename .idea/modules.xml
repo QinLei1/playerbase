@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Administrator\Desktop\playbase\PlayerBase\AVPlayer.iml" filepath="C:\Users\Administrator\Desktop\playbase\PlayerBase\AVPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlayerBase.iml" filepath="$PROJECT_DIR$/PlayerBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\playbase\PlayerBase\app\app.iml" filepath="C:\Users\Administrator\Desktop\playbase\PlayerBase\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exoplayer/exoplayer.iml" filepath="$PROJECT_DIR$/exoplayer/exoplayer.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\playbase\PlayerBase\exoplayer\exoplayer.iml" filepath="C:\Users\Administrator\Desktop\playbase\PlayerBase\exoplayer\exoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ijkplayer/ijkplayer.iml" filepath="$PROJECT_DIR$/ijkplayer/ijkplayer.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\playbase\PlayerBase\ijkplayer\ijkplayer.iml" filepath="C:\Users\Administrator\Desktop\playbase\PlayerBase\ijkplayer\ijkplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playerbase/playerbase.iml" filepath="$PROJECT_DIR$/playerbase/playerbase.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\playbase\PlayerBase\playerbase\playerbase.iml" filepath="C:\Users\Administrator\Desktop\playbase\PlayerBase\playerbase\playerbase.iml" />
+    </modules>
+  </component>
+</project>
